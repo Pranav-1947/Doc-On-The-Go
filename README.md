@@ -3,19 +3,11 @@
 ## Links
 
 1. Deployed Link - [Click here](https://unite-d0291.web.app/) 
-2. Video Link - [Click here](https://youtu.be/gShsoToKF54) 
 
 ## Inspiration
 <p align='center'><img src = "https://github.com/pranjals149/Doc-On-the-GO/blob/master/public/Snips/Inspiration.jpeg" width = "600" height = "400"/></p>
 Our inspiration for this project was to help people during the Coronavirus pandemic. People coming together for a cause has always been a powerful tool in the tackling of a problem, we thought to add our contribution to the fight against coronavirus to the best of our abilities.
 
-## Problem Statements
-
-Since the second surge in the number of coronavirus cases in India in past months, the availability of resources and access to healthcare facilities has been a point of concern for all . We feel that a lot of the people do not get access to these publicly available resources because of the following reasons:
-
-- Since the first surge of Covid-19 in India , people have to quarantine themselves for breaking the chain of infection, resulting in people being locked out of many healthcare facilities for self care.
-
-- Granted , there are sites for resource availability but most of these sites fail to cater to a majority of the requests from smaller cities. Most of the people in these cities have to resort to other social media platforms such as twitter, LinkedIn, WhatsApp etc. which often leads to larger response times where speed is critical. We have tried to tackle both of the problems using our Covid resource and healthcare management webapp – ‘Doc-On-the-Go’ .
 
 ## Introduction
 **Doc-On-the-Go** is a covid resource and healthcare management application in which users can enter into the application and can post about available resources or resources needed and get faster response times. The application is based for the purpose of increasing the accessibility of resources and getting people healthcare advice while in home. In this way, we can create a fully functioning community where people can help others in resource procurement, so that it caters to people from all locations , both small and big. Users can post about resource availability and also refer to the pre-existing resources fetched by the Coronasafe API, allowing people both real time updates and feedback.
@@ -51,8 +43,4 @@ The various features of the application that can be utilized by the user are as 
 ## Working Screenshot
 <p align='center'><img src = "DocOnTheGo.gif" /></p>
 
-## Team Members
 
-1. Pranjal Srivastava - [LinkedIn](https://www.linkedin.com/in/pranjal-srivastava-801a9a152/) [GitHub](https://github.com/pranjals149)
-2. Ramankur Goswami - [LinkedIn](https://www.linkedin.com/in/ramankurgoswami/) [GitHub](https://github.com/RamankurGoswami)
-3. Shivam Purohit - [LinkedIn](https://www.linkedin.com/in/shivam-purohit-0930381aa/) [GitHub](https://github.com/ShivamPurohit)
